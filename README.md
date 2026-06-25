@@ -1,1 +1,1 @@
-# GDD-Inifinity-Shadow
+# SGDD-Inifinity-Shadow
