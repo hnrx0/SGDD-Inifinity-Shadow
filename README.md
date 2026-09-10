@@ -20,7 +20,7 @@ Este repositório contém o GDD, os arquivos do projeto e os **assets** utilizad
 
 ## Equipe
 
-Este jogo está sendo desenvolvido pela equipe formada por Paulo, Guilherme e Henrique.
+Este jogo está sendo desenvolvido pela equipe formada por Paulo, Guilherme, Henrique, Pablo, Deyvid, Samuel.
 
 ---
 
